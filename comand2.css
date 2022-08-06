@@ -1,0 +1,71 @@
+
+
+#cabecalho{
+     background: #DAA520;
+     border:none;
+     font-family: "Courier New", monospace;
+    text-align: center;
+    color: white;
+    padding: 0.5px;
+    line-height:0.2;
+}
+
+
+
+
+.conteudo{
+    background: black;
+    border: none ;
+    font-family: "Courier New", monospace;
+    text-align: center;
+    padding: 0.5px;
+    line-height:0.2;
+}
+
+h2{
+     color: white;
+
+}
+
+a:link, a:visited {
+text-decoration: none;
+color: white;
+
+}
+
+
+a:hover {
+     color: orange;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+body {
+    background: url(imagens/background-gif/red-yellow.gif) fixed no-repeat;
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover; 
+
+}
+
+
+
+
+
+
+
+
+
+
